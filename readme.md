@@ -26,6 +26,7 @@ A Amazon Web Services (AWS) é a plataforma de nuvem mais adotada e mais abrange
 
 ## Como criar uma conta na AWS ?
 
+
 [<img src="./assets/imgs/preview.png" align="left" width="200" />](https://www.youtube.com/watch?v=7fj3FNMcdlI)
 &nbsp;&nbsp;
 **Veja em vídeo se preferir**
